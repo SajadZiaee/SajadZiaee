@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SajadZiaee
 - 👀 I’m interested in novels, math, physics, phylosophy, and AI :)
-- 🌱 I’m currently learning NLP, and Node JS.
+- 🌱 I’m currently learning NLP, and Python.
 - 📫 How to reach me: sajadziaee97@gmail.com or @sajadziaee on Telegram.
