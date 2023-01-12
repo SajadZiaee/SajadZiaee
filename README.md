@@ -4,4 +4,4 @@
 - 📫 How to reach me: sajadziaee97@gmail.com or @sajadziaee on Telegram.
 
 
-![Sajad's Github stats](https://github-readme-stats.vercel.app/api?username=sajadziaee&count_private=true&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajadziaee&show_icons=true&theme=radical)
